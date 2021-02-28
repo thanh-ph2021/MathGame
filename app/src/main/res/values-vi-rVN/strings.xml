@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameTinhToan</string>
+    <string name="play">Chơi</string>
+    <string name="training">Rèn luyện</string>
+    <string name="option">Tùy chọn</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="dark_mode">Chế độ ban đêm</string>
+    <string name="volume">Âm lượng</string>
+    <string name="version">Phiên bản</string>
+    <string name="score">Điểm:</string>
+    <string name="high_score">Điểm cao nhất:</string>
+    <string name="setting">Cài đặt</string>
+    <string name="resume">Tiếp tục</string>
+    <string name="main_menu">Trang chính</string>
+    <string name="quit">Thoát</string>
+    <string name="play_again">Chơi lại</string>
+    <string name="addition">Cộng</string>
+    <string name="subtraction">Trừ</string>
+    <string name="multiplication">Nhân</string>
+    <string name="divide">Chia</string>
+    <string name="modulo">Chia lấy dư</string>
+    <string name="mul_table">Bảng nhân</string>
+    <string name="div_table">Bảng chia</string>
+    <string name="go_back_training">Về mục rèn luyện</string>
+    <string name="txt_dialog">Bạn có chắc chắn muốn chuyển sang tiếng anh chứ?</string>
+    <string name="no">Không</string>
+    <string name="yes">Có</string>
+    <string name="congratulations">Chúc mừng!</string>
+    <string name="oh_no">Ôi Không!</string>
+</resources>

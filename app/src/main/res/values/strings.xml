@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="play">Play</string>
+    <string name="training">Training</string>
+    <string name="option">Option</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="volume">Volume</string>
+    <string name="version">Version</string>
+    <string name="score">Score:</string>
+    <string name="high_score">High score:</string>
+    <string name="setting">Setting</string>
+    <string name="resume">Resume</string>
+    <string name="main_menu">Main menu</string>
+    <string name="quit">Quit</string>
+    <string name="play_again">Play Again</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="divide">Divide</string>
+    <string name="modulo">Modulo</string>
+    <string name="mul_table">Multi table</string>
+    <string name="div_table">Division table</string>
+    <string name="go_back_training">Go back training</string>
+    <string name="txt_dialog">Are you sure you want to switch to Vietnamese?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="oh_no">Oh no!</string>
+
+
+</resources>
